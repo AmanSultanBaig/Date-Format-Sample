@@ -1,5 +1,5 @@
 // Expected Output  08 05 2019
-// but be default format is 8 5 2019
+// but by default format is 8 5 2019
 
 // first create instance of Date Object
 const date = new Date();
