@@ -3,4 +3,4 @@ Date formatted issue resolved
 
 # Create Date instance
 
-######## const date = new Date()
+###### const date = new Date()
