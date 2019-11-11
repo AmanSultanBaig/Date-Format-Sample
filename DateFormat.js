@@ -5,8 +5,8 @@
 const date = new Date();
 
 // store current date & month in to local variables
-let formatDate = (date.getDate()-3);
-let formatedMonth = (date.getMonth()-5);
+let formatDate = date.getDate();
+let formatedMonth = date.getMonth();
 
 // passed a conditon to rendering expected output
 if(formatDate <= 9 && formatedMonth <= 9) 
