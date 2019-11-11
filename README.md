@@ -11,8 +11,8 @@ const date = new Date()
 
  
 ```ruby
-let formatDate = date.getDate();`
-let formatedMonth = date.getMonth();`
+let formatDate = date.getDate();
+let formatedMonth = date.getMonth();
 ```
 ###  passed a conditon to rendering expected output
 
