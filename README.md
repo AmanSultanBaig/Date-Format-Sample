@@ -3,7 +3,9 @@ Date formatted issue resolved
 
 ### Create Date instance
 
-###### ```const date = new Date()```
+```ruby
+const date = new Date()
+```
 
 ### store current date & month in to local variables
 
